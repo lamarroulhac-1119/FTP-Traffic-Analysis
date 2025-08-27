@@ -1,7 +1,7 @@
 # FTP-Traffic-Analysis Lab
 FTP traffic capture and security assessment using Wireshark and 'vsftpd'.
 
-**Objective**
+**Overview**
 Captured and analyzed FTP network traffic using Wireshark to demonstrate the risks of unencrypted FTP sessions and to recommend strategies to reduce risk.
 
 **Tools**
