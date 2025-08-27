@@ -1,4 +1,4 @@
-# FTP-Traffic-Analysis
+# FTP-Traffic-Analysis Lab
 FTP traffic capture and security assessment using Wireshark and 'vsftpd'.
 
 **Objective**
